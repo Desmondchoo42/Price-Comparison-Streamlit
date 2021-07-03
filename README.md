@@ -13,7 +13,7 @@ There are two options presented to the users in the streamlit interface - (1) Pr
 Options for user in STreamlit interface: 
    * Price Comparison using name of the item
      * Script will search selected E-commerce (Shopee Mall and / or LazMall) by the name of the item and extract the information from the first item of the search result. 
-     * Due to this methodology, user is recommended to type in as much details as possible. For example, if user intend to search for the item "Tineco Ifloor Cordless Vacuum", user should input the entire string into the text input rather than just entering "Tineco vacuum cleaner" in order to get a more accurate result. 
+     * Due to this methodology, user is recommended to type in as much details as possible. For example, if user intend to search for the item "Tineco Ifloor Cordless Vacuum",        user should input the entire string into the text input rather than just entering "Tineco vacuum cleaner" in order to get a more accurate result. 
 
    * By individual url
      * Due to the limitation of the earlier method, user can also input the url for a more accurate comparison.   
