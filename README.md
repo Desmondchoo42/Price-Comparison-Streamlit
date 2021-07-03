@@ -24,8 +24,11 @@ There are two options presented to the users in the streamlit interface - (1) Pr
   * This script is able to circumvent this by using Selenium ActionChain function (drag and drop). For now, this method is sufficient.    
 
 ## Example of the interface - different options and results
+* Initial interface - option to input url
 ![alt text](https://github.com/Desmondchoo42/Price-Comparison-Streamlit/blob/main/Image/Preview%202.jpg?raw=true)
 
+
+* Output
 ![alt text](https://github.com/Desmondchoo42/Price-Comparison-Streamlit/blob/main/Image/Preview%201.jpg?raw=true)
 
 ## How to use
