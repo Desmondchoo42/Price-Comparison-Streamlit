@@ -24,8 +24,9 @@ There are two options presented to the users in the streamlit interface - (1) Pr
   * This script is able to circumvent this by using Selenium ActionChain function (drag and drop). For now, this method is sufficient.    
 
 ## Example of the interface - different options and results
-![alt text](https://github.com/Desmondchoo42/Price-Comparison-Streamlit/Image/blob/main/Preview 2.jpg?raw=true)
-![alt text](https://github.com/Desmondchoo42/Price-Comparison-Streamlit/Image/blob/main/Preview 1.jpg?raw=true)
+![alt text](https://github.com/Desmondchoo42/Price-Comparison-Streamlit/blob/Image/Preview 2.jpg?raw=true)
+
+![alt text](https://github.com/Desmondchoo42/Price-Comparison-Streamlit/blobImage/Preview 1.jpg?raw=true)
 
 ## How to use
 
