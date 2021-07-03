@@ -45,8 +45,10 @@ There are two options presented to the users in the streamlit interface - (1) Pr
 
 * More E-commerce platforms
   * Currently the time-saving or advantage is not high for price comparison with just two E-commerce platforms. However, this script can be easily adapted to incorporate more E-commerce platforms such as Hachi-Tech, Courts, Harvey Norman or even Qoo10. 
+
 * More information should be extracted so that user can make better pricing decisions
   * Currently this script just extract the price of the item, delivery fee and add them up for user to compare. However, there are other factors that user takes into account before making a purchase. Factors such as number of reviews (both positive and negative), platform vouchers, warranty and even estimated delivery times do play a part in the user's purchasing decision making process. For this to be really useful, such information should be extracted. 
+
 * Potential database to store all the search history by the user 
   * This will allow the user can do a price comparison not just against another E-commerce platform but also along the time horizon - if the price is indeed at its lowest point for "X" days / weeks / months.     
 
